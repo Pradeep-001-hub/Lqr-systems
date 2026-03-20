@@ -36,10 +36,6 @@ Results are presented in terms of time response plots, performance metrics, and 
 ## Conclusion
 The LQR controller provides an efficient means of achieving robust and optimal control for rocket attitude management. Future work may involve adaptive control strategies and real-time implementation on hardware.
 
-## References
-- [LQR Control Theory](https://en.wikipedia.org/wiki/Linear_quadratic_regulator)
-- [Rocket Attitude Control Resources](https://www.nasa.gov/)
 
----
 
 *Date of creation: 2026-03-20*
